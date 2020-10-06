@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5148" started-at="2020-10-04T00:00:25Z" finished-at="2020-10-04T00:00:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5148" started-at="2020-10-04T00:00:25Z" finished-at="2020-10-04T00:00:31Z">
+      <class name="Step_Test.Post_Testing">
+        <test-method status="PASS" signature="requestAssured()[pri:0, instance:Step_Test.Post_Testing@6b419da]" name="requestAssured" is-config="true" duration-ms="834" started-at="2020-10-04T00:00:25Z" finished-at="2020-10-04T00:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestAssured -->
+        <test-method status="PASS" signature="createUser()[pri:1, instance:Step_Test.Post_Testing@6b419da]" name="createUser" duration-ms="4280" started-at="2020-10-04T00:00:26Z" finished-at="2020-10-04T00:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- Step_Test.Post_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
